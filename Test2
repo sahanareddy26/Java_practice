@@ -1,0 +1,8 @@
+public class Test2 {
+    public static void main(String args[]){
+        int[] integers={1,2,3};
+        double[] decimals=(double[])integers;
+        Sysetm.out.println(decimal[0]);
+    }
+    
+}
